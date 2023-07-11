@@ -3,11 +3,11 @@
 
 ## 서울시 상권 시각화
 
-[PPT](https://drive.google.com/file/d/1Vf_5PjsqAyTjv4_fS7gazsn3CjKi06c3/view?usp=sharing)
+[PPT](https://drive.google.com/file/d/1Vf_5PjsqAyTjv4_fS7gazsn3CjKi06c3/view?usp=sharing)  <br>
 [보고서](https://drive.google.com/file/d/1dFx-y0XNwNcr3PT8atcIusFzSGJCd2GC/view?usp=sharing)
 
 <aside>
-📊 로그 데이터 Airflow 파이프라인  구축 <aside>
+📊 로그 데이터 Airflow 파이프라인  구축 <br>
 [로그데이터 분석 대시보드 구축 프로젝트](https://github.com/hyedall/programmers-log-dashboarding/blob/main/README.md)
 의 파이프라인을 Airflow로 구축하였습니다.
 
