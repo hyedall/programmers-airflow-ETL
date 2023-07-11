@@ -8,8 +8,7 @@
 
 <aside>
 📊 로그 데이터 Airflow 파이프라인  구축 <br>
-[로그데이터 분석 대시보드 구축 프로젝트](https://github.com/hyedall/programmers-log-dashboarding/blob/main/README.md)
-의 파이프라인을 Airflow로 구축하였습니다.
+[로그데이터 분석 대시보드 구축 프로젝트](https://github.com/hyedall/programmers-log-dashboarding/blob/main/README.md)의 파이프라인을 Airflow로 구축하였습니다.
 
 </aside>
 
