@@ -1,7 +1,7 @@
 # programmers-airflow-ETL
 
 
-## 서울시 상권 시각화
+## 로그 데이터 Airflow 파이프라인  구축
 
 [PPT](https://drive.google.com/file/d/1Vf_5PjsqAyTjv4_fS7gazsn3CjKi06c3/view?usp=sharing)  <br>
 [보고서](https://drive.google.com/file/d/1dFx-y0XNwNcr3PT8atcIusFzSGJCd2GC/view?usp=sharing)
