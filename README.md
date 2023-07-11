@@ -39,8 +39,8 @@ Airflow,  Docker, Postgres
 
 ### 배운 점
 
-저번 프로젝트 때 시간별로 같은 분포를 가지는 부분이 아쉬워서 airflow로 데이터를 생성하면서 시간별로 데이터 양이 다르게 생성되게끔 수정해봄  
-airflow를 활용해보면서 full refresh와 증분에 대한 부분도 고민해보고,  execution_date에 대해 자세하게 활용해볼 수 있었음
+- 저번 프로젝트 때 시간별로 같은 분포를 가지는 부분이 아쉬워서 airflow로 데이터를 생성하면서 시간별로 데이터 양이 다르게 생성되게끔 수정해봄  
+- airflow를 활용해보면서 full refresh와 증분에 대한 부분도 고민해보고,  execution_date에 대해 자세하게 활용해볼 수 있었음
 
 
 
