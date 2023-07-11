@@ -23,7 +23,7 @@ Airflow,  Docker, Postgres
 - 하루 간격으로 스케줄링
   - execution_date ~ next_execution_date 까지 시간 별로 데이터 개수가 차이나게 생성 후 로그 데이터 time 걸럼에 넣어줌
   - 날짜 별로도 랜덤 값을 줘서 날짜 별 데이터 양이 다르게 생성
-  - Airflow backfill을 활용하여 데이텉 생성
+  - Airflow backfill을 활용하여 데이터 생성
 - 증분으로 적재되게 만듬
 
 
